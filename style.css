@@ -1,0 +1,98 @@
+*,
+html {
+  margin: 10;
+  padding: 0;
+}
+
+body {
+  margin: 0px 5% 0% 5%;
+}
+
+table {
+  width: 100%;
+  
+}
+
+.table {
+  width: 210px;
+  height: fit-content;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.tr {
+  padding: 12px;
+}
+
+.td {
+  border-bottom: 1px solid #ddd;
+  padding: 5%;
+}
+
+.th {
+  color: rgb(0, 119, 255);
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+
+.atas{
+  color: white;
+  padding: 4%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: auto;
+}
+
+.psn{
+  color: white;
+  padding: 4%;
+  display: flex;
+  justify-content: center;
+  height: auto;
+}
+
+.warna1 {
+  background-color: rgb(0, 119, 255);
+}
+
+.warna2 {
+  background-color: #ff8b00;
+}
+
+.warna3 {
+  background-color: #008001;
+}
+
+.tabl3 {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.kiri {
+  border-left: 1px solid #ddd;
+}
+
+.kanan {
+  border-right: 1px solid #ddd;
+}
+
+.tho,
+.tdo {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+.tro {
+  background-color: #ffecce;
+}
+
+.tho {
+  background-color: #483d8c;
+  color: white;
+}
+
+.tro:hover {
+  background-color: rgb(138, 126, 239);
+}
